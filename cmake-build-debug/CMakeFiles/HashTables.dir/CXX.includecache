@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/75631/Projects/HashTables/HashTable.cpp
+HashTable.h
+/Users/75631/Projects/HashTables/HashTable.h
+
+/Users/75631/Projects/HashTables/HashTable.h
+iostream
+-
+vector
+-
+
+/Users/75631/Projects/HashTables/main.cpp
+iostream
+-
+fstream
+-
+vector
+-
+
